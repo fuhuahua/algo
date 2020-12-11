@@ -40,9 +40,10 @@ public class ArrayToFibonacci {
     public static List<Integer> splitIntoFibonacci(String s) {
         String[] splitResult = s.split("");
         List<Integer> result = new ArrayList();
-        for(){
-
-        }
+//        for(){
+//
+//        }
+        return null;
     }
 
     public static boolean isFibonacci(List<Integer> targetList){
